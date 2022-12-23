@@ -5,13 +5,9 @@
 import pyautogui, time
   
 time.sleep(2)
-n=0
+pyautogui.typewrite("@")
+pyautogui.press("enter")
 while True:
-	i=0
 	pyautogui.typewrite("@")
-	while i<=n:
-		pyautogui.press("down")
-		i=i+1
+	pyautogui.press("down")
 	pyautogui.press("enter")
-	n=n+1
- 
