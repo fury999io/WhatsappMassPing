@@ -1,5 +1,5 @@
 # WhatsappMassPing
-Ping every participants on a WhatsApp group quickly and automatically using this python script.
+Ping every participant on a WhatsApp group quickly and automatically using this python script.
 Works on WhatsApp Web or Desktop Client only.
 Note: The tool has been created for legitimate purposes. Spam or harmful uses are not recommended or promoted. 
 ## Alert ⚠️
