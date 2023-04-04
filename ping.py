@@ -5,6 +5,7 @@ import pyautogui, time
 time.sleep(2)
 pyautogui.typewrite("@")
 pyautogui.press("enter")
+pyautogui.hotkey('shift', 'enter')
 while True:
 	pyautogui.typewrite("@")
 	pyautogui.press("down")
