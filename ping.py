@@ -9,4 +9,5 @@ while True:
 	pyautogui.typewrite("@")
 	pyautogui.press("down")
 	pyautogui.press("enter")
-	pyautogui.typewrite("\n")
+	pyautogui.typewrite('''
+	''')
