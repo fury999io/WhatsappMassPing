@@ -1,6 +1,7 @@
 # WhatsappMassPing
 Ping every participants on a WhatsApp group quickly and automatically using this python script.
 Works on WhatsApp Web or Desktop Client only.
+Note: The tool has been created for legitimate purposes. Spam or harmful uses are not recommended or promoted. 
 ## Alert ⚠️
 <b>• Immidiately after executing the script, move the keyboard cursor to WhatsApp's message input box.</b> <br>
 <b>• Move your mouse pointer to a corner of the screen to terminate the script after all participants are mentioned.</b>
