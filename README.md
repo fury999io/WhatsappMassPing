@@ -2,7 +2,7 @@
 Ping everyone in a WhatsApp group automatically using this python script.
 
 ## Alert ⚠️
-<b>Move your mouse pointer to a corner of the screen to terminate the script.<b>
+<b>Move your mouse pointer to a corner of the screen to terminate the script.</b>
 ## Pre-Configuration
 ```pip install pyautogui```
 ## Execute Instantly (GNU/Linux, Unix-like systems)
