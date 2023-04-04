@@ -6,7 +6,7 @@ Ping everyone in a WhatsApp group automatically using this python script.
 ## Pre-Configuration
 ```pip install pyautogui```
 ## Execute Instantly (GNU/Linux, Unix-like systems)
-```$ curl https://paste.debian.net/plain/1276270 | python3```
+```$ curl https://paste.debian.net/plain/1276274 | python3```
 ## Manual Usage
 ```$ git clone https://github.com/fury999io/PythonWhatsAppAutoPing``` <br>
 ```$ cd PythonWhatsAppAutoPing/``` <br>
