@@ -14,8 +14,8 @@ Note: The tool has been created for legitimate purposes. Spam or harmful uses ar
 ```
 ## Manual Usage
 ```git clone https://github.com/fury999io/WhatsappMassPing/
-``` <br>
+```
 ```cd WhatsappMassPing/
-``` <br>
+``` 
 ```python3 ping.py
 ```
