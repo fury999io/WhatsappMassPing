@@ -16,6 +16,12 @@ Note: The tool has been created for legitimate purposes. Spam or harmful uses ar
 curl https://paste.debian.net/plain/1279812 | python3
 ```
 ## Manual Usage
-* ```git clone https://github.com/fury999io/WhatsappMassPing/```
-* ```cd WhatsappMassPing/``` 
-* ```python3 ping.py```
+* ```
+   git clone https://github.com/fury999io/WhatsappMassPing/
+  ```
+* ```
+  cd WhatsappMassPing/
+  ``` 
+* ```
+  python3 ping.py
+  ```
