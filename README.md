@@ -8,8 +8,7 @@ Note: The tool has been created for legitimate purposes. Spam or harmful uses ar
 * Move your mouse pointer to a corner of the screen to terminate the script after all participants are mentioned.
 ## Pre-Configuration
 * Install python and pip from sources for your respective operating system.
-* ```
-  pip install pyautogui
+* ```pip install pyautogui
   ```
 ## Execute Instantly (GNU/Linux, Unix-like systems)
 ```
