@@ -8,10 +8,12 @@ Note: The tool has been created for legitimate purposes. Spam or harmful uses ar
 * Move your mouse pointer to a corner of the screen to terminate the script after all participants are mentioned.
 ## Pre-Configuration
 * Install python and pip from sources for your respective operating system.
-* ```pip install pyautogui```
+* ```pip install pyautogui
+* ```
 ## Execute Instantly (GNU/Linux, Unix-like systems)
 ```
-curl https://paste.debian.net/plain/1279812 | python3```
+curl https://paste.debian.net/plain/1279812 | python3
+```
 ## Manual Usage
 * ```git clone https://github.com/fury999io/WhatsappMassPing/```
 * ```cd WhatsappMassPing/``` 
